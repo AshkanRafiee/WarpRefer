@@ -11,7 +11,7 @@ current_failed = None
 current_gb = None
 referrer = None
 status = None
-stop_thread: None
+stop_thread = None
 url = 'https://api.cloudflareclient.com/v0a745/reg'
 
 
