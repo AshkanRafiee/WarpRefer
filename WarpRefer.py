@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #Coded By Ashkan Rafiee https://github.com/AshkanRafiee/WarpRefer/
 import PySimpleGUI as sg
 import webbrowser
