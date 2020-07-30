@@ -1,8 +1,8 @@
+# WarpRefer
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
 [![GitHub release](https://img.shields.io/badge/Version-2.1.0-Yellow)](https://github.com/AshkanRafiee/WarpRefer/releases/)
 [![GitHub license](https://img.shields.io/badge/license-GPL--3.0-Red)](https://github.com/AshkanRafiee/WarpRefer/blob/master/LICENSE)
 [![GitHub platform](https://img.shields.io/badge/Platform-cross--platform-brown)](https://github.com/AshkanRafiee/WarpRefer/releases/)
-# WarpRefer
 Get Free Warp Plus Referrals!
 ## Installation
 Head to the Released Page and Download preferred version According to your operating system. 
