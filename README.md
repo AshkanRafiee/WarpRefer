@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/AshkanRafiee/WarpRefer/releases/)
+[![GitHub release](https://camo.githubusercontent.com/cb297629267ecb0a0487565f93e92f515a29d302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d312e322e332d626c7565)](https://github.com/AshkanRafiee/WarpRefer/releases/)
 [![GitHub license](https://camo.githubusercontent.com/cb297629267ecb0a0487565f93e92f515a29d302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d312e322e332d626c7565)](https://github.com/AshkanRafiee/WarpRefer/blob/master/LICENSE)
 # WarpRefer
 Get Free Warp Plus Referrals!
