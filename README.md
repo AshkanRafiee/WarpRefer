@@ -1,6 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
 [![GitHub release](https://img.shields.io/badge/Version-2.1.0-Yellow)](https://github.com/AshkanRafiee/WarpRefer/releases/)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/AshkanRafiee/WarpRefer/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-GPL--3.0-Red)](https://github.com/AshkanRafiee/WarpRefer/blob/master/LICENSE)
 # WarpRefer
 Get Free Warp Plus Referrals!
 ## Installation
