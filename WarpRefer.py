@@ -28,10 +28,10 @@ window = sg.Window('WarpRefer - Get Free Warp Plus Referrals!', layout)
 
 ################Functions################
 def run():
-	url = 'https://api.cloudflareclient.com/v0a745/reg'
-	body = {"referrer": referrer}
-	data = json.dumps(body).encode('utf8')
-	headers = {'User-Agent': 'okhttp/3.12.1'}
+	url         = 'https://api.cloudflareclient.com/v0a745/reg'
+	body        = {"referrer": referrer}
+	data        = json.dumps(body).encode('utf8')
+	headers     = {'User-Agent': 'okhttp/3.12.1'}
 	req         = urllib.request.Request(url, data, headers)
 	response    = urllib.request.urlopen(req)
 	status_code = response.getcode()
